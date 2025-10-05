@@ -4,7 +4,7 @@
 [![OpenCore](https://img.shields.io/badge/OpenCore-1.0.5-9cf)](https://github.com/acidanthera/OpenCorePkg)
 [![release](https://img.shields.io/badge/indir-son%20sürüm-blue.svg)](https://github.com/sutsurup/DELL-Latitude-7480-Hackintosh/releases)
 
-<img align="right" src="https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/14-7480/non-touch/global-spi/laptop-latitude-14-7480-non-touch-black-front-windows-relativesize-ss-imperial-500-ng.psd?fmt=png-alpha&wid=500&hei=199" alt="DELL" height="260" width="363">
+<img align="right" src="https://amso.eu/hpeciai/c4ca612aebe63bb79001f63b3010f90c/eng_pl_Dell-Latitude-7480-i5-6300U-8GB-480GB-SSD-1920x1080-Class-A-Windows-10-Professional-199887_3.jpg" alt="DELL" height="" width="363">
 
 Türkçe | [English](https://github.com/sutsurup/DELL-Latitude-7480-Hackintosh)
 

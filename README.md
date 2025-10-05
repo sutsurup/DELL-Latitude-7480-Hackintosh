@@ -36,8 +36,6 @@ Yardımcı olabilecek kaynaklar:
 | Wi-Fi | 		Intel(R) Dual Band Wireless-AC 8260 (OpenIntelWireless Support)               |
 | BIOS Versiyonu      | 1.41.3                   |
 
-![](Screenshots/info.png)
-
 ## macOS Sürüm ve Uyumluluk Bilgileri
 Bu yapılandırma (config), şu anda macOS Ventura 13.7.8 sürümünde çalışmaktadır ve Sequoia 15.2 sürümüne kadar sorunsuz bir şekilde güncellenebilir.
 
@@ -74,7 +72,8 @@ Bu disk bölümünde EFI adında yeni bir klasör oluşturun.
 - [ ] SIM Kart (Cellular - Sierra Wireless AirPrime)
 - [ ] Ethernet
 
-![](Screenshots/update.png)
+## Ekran Görüntüleri
+![](https://github.com/sutsurup/DELL-Latitude-5491-Hackintosh/blob/main/Screenshots/ventura-for-7480.png)
 
 ## Kurulum sonrası yararlanabileğiniz rehber bağlantıları
 * önerilir: iCloud'a giriş yapacaksanız veya iMessage, FaceTime kullanmak istiyorsanız, bu rehberi harfiyen uygulayın: [OpenCore ile iMessage ve Apple Servislerini Aktif Etmek](https://osxinfo.net/konu/opencore-ile-imessage-ve-apple-servislerini-aktif-etmek.16297/)
